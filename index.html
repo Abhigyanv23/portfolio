@@ -239,13 +239,20 @@
 
   <script>
     // Theme toggle
-    const themeIcon = document.getElementById("theme-icon");
-    const body = document.body;
+   // Theme toggle
+const themeIcon = document.getElementById("theme-icon");
+const body = document.body;
 
-    themeIcon.addEventListener("click", () => {
-      body.classList.toggle("dark-theme");
-      themeIcon.src = body.classList.contains("dark-theme") ? "Toogle Dark Theme/cf6eca62338730eafbdfa8bfc285d391.png" : "Toogle Dark Theme/pngwing.com.png";
-    });
+themeIcon.addEventListener("click", () => {
+  body.classList.toggle("dark-theme");
+  if (body.classList.contains("dark-theme")) {
+    themeIcon.src = "Toogle Dark Theme/pngwing.com.png"; // Replace with the correct path for the moon icon
+  } else {
+    themeIcon.src = "Toogle Dark Theme/cf6eca62338730eafbdfa8bfc285d391.png"; // Replace with the correct path for the sun icon
+  }
+});
+
+
 
     // Mobile menu toggle
     const menuToggle = document.querySelector('.menu-toggle');
