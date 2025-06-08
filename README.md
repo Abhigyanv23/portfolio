@@ -33,10 +33,3 @@ Hosting: GitHub Pages & Netlify (https://abhigyanvarma.netlify.app)
 
 🧪 Portable Gas Sensor project – Bridging tech and safety
 
-🎭 Film concepts inspired by Before We Go, Go Goa Gone, and more
-
-📫 Connect with Me
-Email: imabhi2304@gmail.com
-
-LinkedIn: linkedin.com/in/abhigyan2304
-
