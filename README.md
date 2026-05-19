@@ -115,29 +115,6 @@ open index.html
 
 ---
 
-## 🔗 Connected Projects
-
-This portfolio links to my main projects:
-
-- **Hospital Management System** — Full-stack healthcare platform with real-time WebSockets and RBAC
-- **Fake News Detection** — Privacy-preserving ML system using Federated Learning
-- **Fall Detection System** — Edge AI for construction worker safety
-- **Smart Inventory Management** — CRUD operations and analytics dashboard
-
-View all projects on [GitHub](https://github.com/Abhigyanv23)
-
----
-
-## 🎓 Skills & Expertise
-
-**Languages:** Python, JavaScript, C++, HTML/CSS  
-**ML/AI:** TensorFlow, scikit-learn, NumPy, Pandas  
-**Web:** React, Node.js, Express, MySQL, Tailwind CSS  
-**Tools:** Git, Docker, AWS, Google Colab, Figma  
-**Soft Skills:** Leadership, Communication, Creative Problem-Solving  
-
----
-
 ## 📞 Get in Touch
 
 - **Email:** [imabhi2304@gmail.com](mailto:imabhi2304@gmail.com)
